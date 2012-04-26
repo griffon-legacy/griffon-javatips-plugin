@@ -65,11 +65,11 @@ The following nodes will become available on a View script upon installing this 
 |                         | type       | FormScroller.Type  |
 | mouseWheelController    | target     | JScrollPane        |
 | marqueePanel            | start      | boolean            |
-| overlapLayout           |            |                    |
-| relativeLayout          |            |                    |
-| rxcardLayout            |            |                    |
-| scrollablePanel         |            |                    |
-| selectButtonGroup       |            |                    |
+| overlapLayout           |            |                    |
+| relativeLayout          |            |                    |
+| rxcardLayout            |            |                    |
+| scrollablePanel         |            |                    |
+| selectButtonGroup       |            |                    |
 | sizeDocumentFilter      |            |                    |
 | toolTipListener         |            |                    |
 | upperCaseDocumentFilter |            |                    |
