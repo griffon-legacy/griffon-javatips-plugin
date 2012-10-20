@@ -24,7 +24,7 @@ import groovy.swing.factory.LayoutFactory
  * @author Andres Almiray
  */
 class JavatipsGriffonAddon {
-    def factories = [
+    Map factories = [
         alphaContainer: new AlphaContainerFactory(),
         backgroundPanel: new ComponentFactory(BackgroundPanel),
         caretPositionListener: CaretPositionListener,
